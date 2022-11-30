@@ -10,7 +10,7 @@ TASKS:
 
 -Add, commit, merge GitHub branches.
 
--Retrieve data from a GeoJSON file.
+-Retrieve data from a GeoJSON file:
 
 ![image](https://user-images.githubusercontent.com/105184244/204924065-9c765271-bfc7-48e0-8db7-1259811998d6.png)
 
